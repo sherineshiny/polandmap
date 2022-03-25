@@ -1,4 +1,5 @@
-$(function() {
+<script>
+   $(function() {
     $(id='westpomerania').hover(function() {
         $('.tooltip.westpomerania').toggle();
     });
@@ -78,5 +79,6 @@ $(function() {
         $('.tooltip.subcarpathia').toggle();
     });
 });
+</script>
 
 
