@@ -13,7 +13,7 @@
   padding: 5px 0;
   border-radius: 6px;
  .tooltip .tooltiptext::after {
-  content: " ";
+  content: "west pomerania";
   position: absolute;
   top: 50%;
   right: 100%; /* To the left of the tooltip */
@@ -34,7 +34,7 @@
   padding: 5px 0;
   border-radius: 6px;
  .tooltip .tooltiptext::after {
-  content: " ";
+  content: "lubusz ";
   position: absolute;
   top: 50%;
   right: 100%; /* To the left of the tooltip */
@@ -55,7 +55,7 @@
   padding: 5px 0;
   border-radius: 6px;
  .tooltip .tooltiptext::after {
-  content: " ";
+  content: "lower silesia ";
   position: absolute;
   top: 50%;
   right: 100%; /* To the left of the tooltip */
@@ -76,7 +76,7 @@
   padding: 5px 0;
   border-radius: 6px;
  .tooltip .tooltiptext::after {
-  content: " ";
+  content: "greater poland ";
   position: absolute;
   top: 50%;
   right: 100%; /* To the left of the tooltip */
@@ -97,7 +97,7 @@
   padding: 5px 0;
   border-radius: 6px;
  .tooltip .tooltiptext::after {
-  content: " ";
+  content: "kuyavia ";
   position: absolute;
   top: 50%;
   right: 100%; /* To the left of the tooltip */
@@ -118,7 +118,7 @@
   padding: 5px 0;
   border-radius: 6px;
  .tooltip .tooltiptext::after {
-  content: " ";
+  content: "pomerania ";
   position: absolute;
   top: 50%;
   right: 100%; /* To the left of the tooltip */
@@ -139,7 +139,7 @@
   padding: 5px 0;
   border-radius: 6px;
  .tooltip .tooltiptext::after {
-  content: " ";
+  content: "warmia";
   position: absolute;
   top: 50%;
   right: 100%; /* To the left of the tooltip */
@@ -160,7 +160,7 @@
   padding: 5px 0;
   border-radius: 6px;
  .tooltip .tooltiptext::after {
-  content: " ";
+  content: "podlaskie ";
   position: absolute;
   top: 50%;
   right: 100%; /* To the left of the tooltip */
@@ -181,7 +181,7 @@
   padding: 5px 0;
   border-radius: 6px;
  .tooltip .tooltiptext::after {
-  content: " ";
+  content: "masovia";
   position: absolute;
   top: 50%;
   right: 100%; /* To the left of the tooltip */
@@ -202,7 +202,7 @@
   padding: 5px 0;
   border-radius: 6px;
  .tooltip .tooltiptext::after {
-  content: " ";
+  content: "lodz ";
   position: absolute;
   top: 50%;
   right: 100%; /* To the left of the tooltip */
@@ -223,7 +223,7 @@
   padding: 5px 0;
   border-radius: 6px;
  .tooltip .tooltiptext::after {
-  content: " ";
+  content: "lublin ";
   position: absolute;
   top: 50%;
   right: 100%; /* To the left of the tooltip */
@@ -244,7 +244,7 @@
   padding: 5px 0;
   border-radius: 6px;
  .tooltip .tooltiptext::after {
-  content: " ";
+  content: "opole ";
   position: absolute;
   top: 50%;
   right: 100%; /* To the left of the tooltip */
@@ -265,7 +265,7 @@
   padding: 5px 0;
   border-radius: 6px;
  .tooltip .tooltiptext::after {
-  content: " ";
+  content: "silesia ";
   position: absolute;
   top: 50%;
   right: 100%; /* To the left of the tooltip */
@@ -286,7 +286,7 @@
   padding: 5px 0;
   border-radius: 6px;
  .tooltip .tooltiptext::after {
-  content: " ";
+  content: "holy cross province";
   position: absolute;
   top: 50%;
   right: 100%; /* To the left of the tooltip */
@@ -307,7 +307,7 @@
   padding: 5px 0;
   border-radius: 6px;
  .tooltip .tooltiptext::after {
-  content: " ";
+  content: "lesser poland ";
   position: absolute;
   top: 50%;
   right: 100%; /* To the left of the tooltip */
@@ -328,7 +328,7 @@
   padding: 5px 0;
   border-radius: 6px;
  .tooltip .tooltiptext::after {
-  content: " ";
+  content: "subcarpathia ";
   position: absolute;
   top: 50%;
   right: 100%; /* To the left of the tooltip */
