@@ -1,14 +1,13 @@
-<script>
-   $(function() {
+ $(function() {
     $(id='westpomerania').hover(function() {
         $('.tooltip.westpomerania').toggle();
     });
-});
+}); 
 $(function() {
     $(id='lubusz').hover(function() {
         $('.tooltip.lubusz').toggle();
     });
-});
+});    
 $(function() {
     $(id='lowersilesia').hover(function() {
         $('.tooltip.lowersilesia').toggle();
@@ -17,7 +16,7 @@ $(function() {
 $(function() {
     $(id='greaterpoland').hover(function() {
         $('.tooltip.greaterpoland').toggle();
-    });
+    })
 });
 $(function() {
     $(id='kuyavia').hover(function() {
@@ -79,6 +78,4 @@ $(function() {
         $('.tooltip.subcarpathia').toggle();
     });
 });
-</script>
-
 
