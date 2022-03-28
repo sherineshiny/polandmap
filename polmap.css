@@ -12,7 +12,7 @@
   padding: 5px 0;
   border-radius: 6px;}
  .tooltip .westpomerania::after {
-  content: "west pomerania";
+  content: " ";
   position: absolute;
   top: 50%;
   right: 100%; /* To the left of the tooltip */
@@ -54,7 +54,7 @@
   padding: 5px 0;
   border-radius: 6px;}
  .tooltip .lowersilesia::after {
-  content: "lower silesia ";
+  content: " ";
   position: absolute;
   top: 50%;
   right: 100%; /* To the left of the tooltip */
@@ -339,3 +339,19 @@
 .tooltip:hover .subcarpathia {
   visibility: visible;
 } 
+<span class="tooltip.westpomerania">west pomerania</span>
+<span class="tooltip.lubusz">Tooltip text</span>
+<span class="tooltip.lowersilesia">lowersilesia</span>
+<span class="tooltip.greaterpoland">greaterpoland</span>
+<span class="tooltip.kuyavia">kuyavia</span>
+<span class="tooltip.pomerania">pomerania</span>
+<span class="tooltip.subcarpathia">subcarpathiat</span>
+<span class="tooltip.lesserpoland">lesserpoland</span>
+<span class="tooltip.holycrossprovince">holycrossprovince</span>
+<span class="tooltip.silesia">silesia</span>
+<span class="tooltip.opole">opole</span>
+<span class="tooltip.lublin">lublin</span>
+<span class="tooltip.lodz">lodz</span>
+<span class="tooltip.masovia">masovia</span>
+<span class="tooltip.podlaskie">podlaskie</span>
+<span class="tooltip.warmia">warmia</span>
